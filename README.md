@@ -5,7 +5,6 @@ This is Generic Client using this we can use selenium server as well as sikuli s
 Client client = new Client ("IP")
 
 
-
 client.webDriver.get("browser");
 
 client.sikuliDriver.type("My Text");
